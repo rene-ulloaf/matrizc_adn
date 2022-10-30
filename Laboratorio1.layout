@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="adn.c" open="1" top="1" tabpos="5">
+		<Cursor position="442" topLine="3" />
+	</File>
+	<File name="adn.h" open="1" top="0" tabpos="4">
+		<Cursor position="367" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="425" topLine="9" />
+	</File>
+	<File name="menu.c" open="1" top="0" tabpos="3">
+		<Cursor position="313" topLine="0" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="2">
+		<Cursor position="258" topLine="0" />
+	</File>
+	<File name="recursos.c" open="1" top="0" tabpos="7">
+		<Cursor position="549" topLine="5" />
+	</File>
+	<File name="recursos.h" open="1" top="0" tabpos="6">
+		<Cursor position="208" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,4 @@
+T	A	G	C
+C	X	X	T
+G	X	X	A
+A	T	C	G

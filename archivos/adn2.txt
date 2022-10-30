@@ -1,0 +1,3 @@
+T	A	G
+T	X	G
+T	A	T

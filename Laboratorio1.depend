@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1315846306 source:e:\programacion\c\laboratorio1\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recursos.h"
+
+1315846333 source:e:\programacion\c\laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recursos.h"
+	"menu.h"
+	"adn.h"
+
+1313705111 e:\programacion\c\laboratorio1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recursos.h"
+
+1315605576 e:\programacion\c\laboratorio1\menu.h
+
+1315846321 e:\programacion\c\laboratorio1\recursos.h
+
+1315605564 source:e:\programacion\c\laboratorio1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recursos.h"
+
+1315847385 source:e:\programacion\c\laboratorio1\adn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"adn.h"
+	"menu.h"
+	"recursos.h"
+
+1315847720 e:\programacion\c\laboratorio1\adn.h
+
+1315842733 source:f:\trabajos estructura\laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recursos.h"
+	"menu.h"
+	"adn.h"
+
+1315842721 f:\trabajos estructura\laboratorio1\recursos.h
+
+1315844377 f:\trabajos estructura\laboratorio1\menu.h
+
+1315883713 f:\trabajos estructura\laboratorio1\adn.h
+
+1315601964 source:f:\trabajos estructura\laboratorio1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recursos.h"
+
+1315883907 source:f:\trabajos estructura\laboratorio1\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recursos.h"
+
+1315884112 source:f:\trabajos estructura\laboratorio1\adn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"adn.h"
+	"menu.h"
+	"recursos.h"
+
+1313787008 source:c:\documents and settings\raulloa\escritorio\laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recursos.h"
+	"menu.h"
+	"adn.h"
+
+1313783468 c:\documents and settings\raulloa\escritorio\laboratorio1\recursos.h
+
+1313703874 c:\documents and settings\raulloa\escritorio\laboratorio1\menu.h
+
+1315058779 c:\documents and settings\raulloa\escritorio\laboratorio1\adn.h
+
+1314211824 source:c:\documents and settings\raulloa\escritorio\laboratorio1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recursos.h"
+
+1314021095 source:c:\documents and settings\raulloa\escritorio\laboratorio1\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	"recursos.h"
+
+1315059694 source:c:\documents and settings\raulloa\escritorio\laboratorio1\adn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"adn.h"
+	"menu.h"
+	"recursos.h"
+
